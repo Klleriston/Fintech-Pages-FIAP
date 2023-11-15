@@ -1,0 +1,14 @@
+.minha-classe-img { 
+    height: 200px;
+    object-fit: cover;
+}
+
+@media (max-width:768px) {
+    .minha-classe-img {
+        height: 150px;
+    }
+}
+
+.content2 {
+    margin: 50px;
+}
