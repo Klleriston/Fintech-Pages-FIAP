@@ -1,6 +1,6 @@
 # Landing Page - Fintech
 
-Bem-vindo à Landing Page da [Nome da Fintech]!
+Bem-vindo à Landing Page da Fintech!
 
 ## Sobre Nós
 
