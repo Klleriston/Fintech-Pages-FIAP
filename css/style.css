@@ -12,3 +12,20 @@
 .content2 {
     margin: 50px;
 }
+
+.content3 {
+    margin: 50px;
+}
+
+.content4 {
+    background-color: black;
+    padding: 50px;
+}
+
+.txt-content {
+    text-align: center;
+}
+
+.botao-enviar {
+    margin-top: 10px;
+}
